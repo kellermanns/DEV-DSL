@@ -1,0 +1,21 @@
+{
+"parameters": [
+		{
+			"name": "ReleaseVersion",
+			"value": "Q1V1.2"
+		},
+		{
+			"name": "AppVersion",
+			"value": "V12.40"
+		},
+		
+		{
+			"name": "ReleaseName",
+			"value": "Banking-FY19Q3"
+		}
+	],
+	"reference": {
+		"fileName": "release_template.json",
+		"fileSource": "OPS-DSL" 
+	}
+}	
